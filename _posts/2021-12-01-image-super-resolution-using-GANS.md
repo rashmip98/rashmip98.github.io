@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Image Super Resolution Using GANs
+tag: project
 ---
 
 Image super-resolution (SR) is the process of estimating a high resolution image from its low resolution counterpart by attempting to recover the missing information when upsampling the image. In this project, high resolution images were recovered with the utilization of Generative Adversarial Networks. The experiments conducted in the project focus on improving the perceptual quality of the images obtained from the baseline model of ESRGAN. 
