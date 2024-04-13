@@ -22,5 +22,9 @@ permalink: /experience
 <div>
           <p class="post_date">Feb 2022 - May 2022</p>
 </div>
+> I worked under the Lifelong ML group on the project 'Novelty Detection & Adaptation for Deep Neural Networks'. The main objective of the project was predicting the next state of a given scene by trying to model the physics of the world and using it as a prior. The project was focused on robotics, reinforcement learning, and vision. I implemented concepts from research papers such as ViTs, RNNs with modifications and improvements.
 
-
+### Quantiphi, Inc.: Analyst 
+<div>
+          <p class="post_date">Nov 2020 - June 2021</p>
+</div>
