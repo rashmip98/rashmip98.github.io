@@ -43,7 +43,11 @@ This contains the implementation of classical methods in perception for tasks li
 - [P3P & PnP Camera Pose](https://github.com/rashmip98/perception/tree/main/p3p-pnp-for-camera_pose)
 
 #### Robotics
-
+This contains non-DL and DL techniques in robotics such as SLAM, reinforcement learning, various filters.
+- [Bayes Filter](https://github.com/rashmip98/learning_in_robotics/tree/main/bayes_filter_and_HMM) to track the position of a robot operating in a 2D grid world
+- [Particle Filter based SLAM](https://github.com/rashmip98/learning_in_robotics/tree/main/SLAM) for humanoid robot
+- [Extended & Unscented Kalman Filter](https://github.com/rashmip98/learning_in_robotics/tree/main/unscented_kalman_filter)
+- [Q-Learning](https://github.com/rashmip98/learning_in_robotics/tree/main/Q_Learning) on the Cartpole Problem
 
 ## Publications
 - ‘Real-Time Vein Detection and Mapping using Near-Infrared Lights’ (IEEE INDICON, [IEEE Xplore](https://ieeexplore.ieee.org/document/9342163)) <style>Dec 2021 {text-align: right}</style> 
