@@ -12,7 +12,7 @@ permalink: /projects
         <h4>{{ post.title }}</h4>
 
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%B %Y" }}</p>
         </div>
       </a>
       <div class="entry">
