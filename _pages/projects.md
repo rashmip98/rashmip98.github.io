@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.projects %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
