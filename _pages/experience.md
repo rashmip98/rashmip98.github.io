@@ -28,3 +28,4 @@ permalink: /experience
 <div>
           <p class="post_date">Nov 2020 - June 2021</p>
 </div>
+Quantiphi is a start-up which provides ML and data solutions for a wide range of industries and problems. My team collaborated with Google’s GCP team along with various clients’ leadership team to design innovative, cutting-edge ML/AI solutions for various use-cases. I worked specifically in the healthcare ecosystem which exposed me to its actors like providers, payers, pharmaceutical companies and the ML solutions for their specific pain points. 
