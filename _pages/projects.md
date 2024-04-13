@@ -9,7 +9,7 @@ permalink: /projects
     {% for post in tag[1] %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h3>{{ post.title }}</h3>
+        <h4>{{ post.title }}</h4>
 
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
