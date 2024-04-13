@@ -28,21 +28,21 @@ permalink: /projects
 ## Code Implementations 
 GitHub repos with implementations of classic models and techniques spanning topics like computer vision, deep learning, perception, robotics
 
-#### Deep Learning Models for Computer Vision
+##### Deep Learning Models for Computer Vision
 This contains the implementation and training of deep learning models for computer vision tasks like object detection, image segmentation, classification, image generation. The following models are implemented:
 - [YOLO](https://github.com/rashmip98/DLforComputerVision/tree/main/YOLO)
 - [SOLO](https://github.com/rashmip98/DLforComputerVision/tree/main/SOLO)
 - [VAE & GAN](https://github.com/rashmip98/DLforComputerVision/tree/main/VAE-GAN)
 - [Faster-RCNN](https://github.com/rashmip98/DLforComputerVision/tree/main/Faster-RCNN)
 
-#### Concepts in Perception
+##### Concepts in Perception
 This contains the implementation of classical methods in perception for tasks like 3D reconstruction, two-view & plane-sweep stereo, depth estimation, camera pose estimation. Code links for few of the tasks mentioned:
 - [3D reconstruction](https://github.com/rashmip98/perception/tree/main/3d_recon-from-2d_images)
 - [Two-view & Multi-view Stereo](https://github.com/rashmip98/perception/tree/main/2view_and_multiview_stereo)
 - [Depth Estimation](https://github.com/rashmip98/perception/tree/main/depth_estimation_using_optical_flow)
 - [P3P & PnP Camera Pose](https://github.com/rashmip98/perception/tree/main/p3p-pnp-for-camera_pose)
 
-#### Robotics
+##### Robotics
 This contains non-DL and DL techniques in robotics such as SLAM, reinforcement learning, various filters.
 - [Bayes Filter](https://github.com/rashmip98/learning_in_robotics/tree/main/bayes_filter_and_HMM) to track the position of a robot operating in a 2D grid world
 - [Particle Filter based SLAM](https://github.com/rashmip98/learning_in_robotics/tree/main/SLAM) for humanoid robot
