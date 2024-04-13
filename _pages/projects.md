@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-
+Hi!!!!
 <div class="posts">
   {% for post in paginator.projects %}
     <article class="post">
