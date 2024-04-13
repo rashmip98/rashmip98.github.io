@@ -49,7 +49,7 @@ This contains non-DL and DL techniques in robotics such as SLAM, reinforcement l
 - [Extended & Unscented Kalman Filter](https://github.com/rashmip98/learning_in_robotics/tree/main/unscented_kalman_filter)
 - [Q-Learning](https://github.com/rashmip98/learning_in_robotics/tree/main/Q_Learning) on the Cartpole Problem
 
-## Publications
+# Publications
 - ‘Real-Time Vein Detection and Mapping using Near-Infrared Lights’ (IEEE INDICON, [IEEE Xplore](https://ieeexplore.ieee.org/document/9342163)) <style>Dec 2021 {text-align: right}</style> 
 - ‘Portable Gas Detection and Warning System for Olfactory Disabled’ (IEEE INCET, [IEEE Xplore](https://ieeexplore.ieee.org/document/9154120)) <style>Jun 2020 {text-align: right}</style>
 - ‘Real-Time Asset Tracking using BLE Beacons’ (Global Conference for Advancement in Tech, [IEEE Xplore](https://ieeexplore.ieee.org/document/8978304)) <style>Oct 2019 {text-align: right}</style>
