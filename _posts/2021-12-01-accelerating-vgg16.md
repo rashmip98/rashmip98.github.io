@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Accelerating VGG16 DCNN With An FPGA
+tag: project
 ---
 
 VGG16 is a convolutional neural network model, which achieves 92.7% top-5 test accuracy on ImageNet. The objective of this project was to modify the VGG process flow to use our custom convolution layer, implemented on the AWS F1 FPGA.
