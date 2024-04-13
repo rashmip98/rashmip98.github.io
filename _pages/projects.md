@@ -1,10 +1,9 @@
 ---
 layout: page
-title:
+title: Projects
 permalink: /projects
 ---
 
-## Projects
 <div class="posts">
   {% for tag in site.tags %}
     {% for post in tag[1] %}
